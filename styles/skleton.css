@@ -1,0 +1,77 @@
+.seniore-header,
+.seniore-layout .mdl-layout__drawer-button {
+    background-color: #f1f1f1;
+    color: #757575;
+}
+
+.seniore-slider {
+    background: #ffff8d;
+    height: 193px;
+}
+
+.android-more-section {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1044px;
+}
+
+.android-card-container {
+}
+
+.android-card-container .mdl-card__media {
+    background: transparent none repeat scroll 0 0;
+    overflow: hidden;
+}
+
+.android-card-container .mdl-card__media img {
+    width: 100%;
+}
+
+.android-card-container .mdl-card__title {
+    background: transparent none repeat scroll 0 0;
+    height: auto;
+    padding-bottom: 69px;
+}
+
+.android-card-container .mdl-card__title-text {
+    color: black;
+    height: auto;
+}
+
+.android-card-container .mdl-card__supporting-text {
+    color: black;
+    height: auto;
+}
+
+.android-card-container .mdl-card__actions {
+    bottom: 0;
+    position: absolute;
+}
+
+.android-card-container .mdl-card__actions a {
+    border-top: medium none;
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.android-link {
+    color: #8bc34a !important;
+    text-decoration: none;
+    text-transform: none;
+}
+
+.android-link .material-icons {
+    position: relative;
+    top: 6px;
+}
+
+.senire-card__price {
+    height: 36px;
+    font-size: 16px;
+    line-height: 32px;
+    padding-left: 8px;
+}
+
+.seniore-card__add-to-card {
+    float: right;
+}

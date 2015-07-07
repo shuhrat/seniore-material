@@ -1,0 +1,29 @@
+.seniore-navigation .mdl-navigation__link {
+    background-color: transparent !important;
+    border-bottom: 4px solid transparent;
+    display: inline-block;
+    height: 60px;
+    line-height: 68px;
+}
+.seniore-navigation .mdl-navigation__link {
+    color: #757575;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.seniore-navigation .mdl-navigation__link:hover {
+    border-bottom: 4px solid #8bc34a;
+}
+
+.seniore-footer .mdl-mega-footer--heading {
+    margin-top: 0px;
+}
+
+.seniore-footer .mdl-mega-footer--link-list {
+    margin-bottom: 0px;
+}
+
+.seniore-navigation__cart {
+    color: #757575;
+
+}
